@@ -1,0 +1,20 @@
+.starIcon::before{
+    content: '';
+    width: 80px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    bottom: 50%;
+    left: 59%;
+
+}
+.starIcon::after{
+    content: '';
+    width: 80px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    bottom: 50%;
+    right: 59%;
+
+}

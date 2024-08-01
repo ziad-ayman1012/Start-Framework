@@ -1,0 +1,20 @@
+.star::before{
+    content: '';
+    width: 80px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    bottom: 50%;
+    left: 53%;
+
+}
+.star::after{
+    content: '';
+    width: 80px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    bottom: 50%;
+    right: 53%;
+
+}
